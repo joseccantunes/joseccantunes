@@ -1,7 +1,9 @@
 ## Hi there 👋
 
-#### 😂 Here is a random joke that'll make you laugh!
+#### 😂 Here is a random joke that'll make you laugh! (if it doesn't, refresh for a new one)
 ![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder&theme=react)
+
+
 <!--
 **joseccantunes/joseccantunes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
